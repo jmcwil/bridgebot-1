@@ -4,10 +4,10 @@ These Arduino scripts provide control schemes for the BRIDGE Bot and test script
 ## Installation and Usage
 First, follow the instructions from the bridgebot_ws README.md. Then, simply open one of these files and upload to the BRIDGE Bot
 ## Contents
-Encoders Reads encoder values
-angle_test Takes keyboard commands and reads both accelerometers. Transmits data over radio
-angle_test_usb Takes keyboard commands and reads both accelerometers. Transmits data over usb
-encoder_accel Reads encoder values and accelerometer values (old version)
-encoder_imu Reads encoder values and accelerometer values using accelerometer library
+1) Encoders Reads encoder values
+2) angle_test Takes keyboard commands and reads both accelerometers. Transmits data over radio
+3) angle_test_usb Takes keyboard commands and reads both accelerometers. Transmits data over usb
+4) encoder_accel Reads encoder values and accelerometer values (old version)
+5) encoder_imu Reads encoder values and accelerometer values using accelerometer library
 
 
