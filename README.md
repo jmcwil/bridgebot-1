@@ -16,5 +16,5 @@ The BRIDGE Bot base board is an ARM based board. To use ARM based boards with th
 2. Move each directory contained in the libraries subdirectory into Arduino/libraries/ on your computer.
 3. Place the bridgebot directory
 
-##Maintainers
+## Maintainers
 [@jmcwil](https://github.com/jmcwil)
